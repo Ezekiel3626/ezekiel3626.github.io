@@ -1,6 +1,13 @@
 .overall-wrapper {
-	border: 2px solid green;
-	max-width: 960px;
+	border: 2px solid white;
+	max-width: 1000px;
 	margin: 0 auto;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
+.title	{
+	border: 4px solid green;
+	max-width: 1000px;
+	margin: 0 auto;
+}
